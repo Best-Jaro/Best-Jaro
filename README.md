@@ -6,7 +6,7 @@
 My recent works:
 
 Create:trainutilities Russian translation.(https://github.com/Best-Jaro/Create-Trainutilities</p>
-Create:cobblestone Russian translation.(https://github.com/Best-Jaro/CreateCobblestone)</p>
+Create:cobblestone Russian and Estonian translation.(https://github.com/Best-Jaro/CreateCobblestone)</p>
 Create:Pattern_Schematics Russian Translation.(https://github.com/Best-Jaro/Pattern-Schematics-Russian-Translation)</p>
 Create:trading_floor Russian translation.(https://github.com/Best-Jaro/Trading-Floor-Neoforge)</p>
 
