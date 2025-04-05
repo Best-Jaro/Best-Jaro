@@ -14,6 +14,7 @@ Create:trading_floor Russian translation.(https://github.com/Best-Jaro/Trading-F
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Discord: best_jaro </a>
+Modrinth ID: ZKbYROEJ </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
