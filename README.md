@@ -9,6 +9,7 @@ Create:trainutilities Russian translation.(https://github.com/Best-Jaro/Create-T
 Create:cobblestone Russian and Estonian translation.(https://github.com/Best-Jaro/CreateCobblestone)</p>
 Create:Pattern_Schematics Russian Translation.(https://github.com/Best-Jaro/Pattern-Schematics-Russian-Translation)</p>
 Create:trading_floor Russian translation.(https://github.com/Best-Jaro/Trading-Floor-Neoforge)</p>
+Femboys Armoury. (https://modrinth.com/mod/femboysarmoury?version=1.20.1&loader=forge)</p>
 
 
 <h3 align="left">Connect with me:</h3>
