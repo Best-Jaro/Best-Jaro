@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaro</h1>
-<h3 align="center">Begginer python, C++ and kotlin developer. Translating MC mods.</h3>
+<h3 align="center">Begginer python, C++ and kotlin developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=best-jaro&label=Profile%20views&color=0e75b6&style=flat" alt="best-jaro" /> </p>
 
